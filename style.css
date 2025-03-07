@@ -1,0 +1,42 @@
+@font-face {
+    font-family: Future;
+    src: url("newcyborg3d.ttf");
+  }
+  @font-face {
+    font-family: ovvlz;
+    src: url("Magnetar.otf");
+  }
+
+
+body{
+    background-color: #525955;
+    
+    background-image: url('https://farm3.static.flickr.com/2591/3681486860_85d9189f90_o.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #000000;
+    font-family: Future;
+    font-size: 100;
+    text-shadow: 2px 2px #999B9B;
+    text-align: center;
+}
+.Owlz {
+    color: #F5F5F5;
+    font-size: 20;
+    font-family: ovvlz;
+    text-shadow: 2px 2px #000080;
+}
+.Zurfing{
+    color: #000080;
+    font-size: 20;
+    font-family: ovvlz;
+    text-shadow: 1px 1px #F5F5F5;
+}
+#snowyy{
+    width: 500px;
+}
+#surfingg{
+    width: 500px;
+}
